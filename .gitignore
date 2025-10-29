@@ -1,0 +1,1 @@
+node_modules\n/.pnp\n.pnp.js\n/coverage\n/.next/\n/out/\n/build\n.DS_Store\n*.pem\n*.log*\n.env*.local\n.vercel\n*.tsbuildinfo
